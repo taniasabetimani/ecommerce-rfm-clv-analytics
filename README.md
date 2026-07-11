@@ -32,9 +32,9 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 ## 🚀 How to Reproduce
 1. Clone this repo.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Download the [UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) and place it in `/data`.
+3. **Download the [UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) and place it in the main folder of repo.**
 4. Run the Jupyter notebook.
-5. Open the Power BI file to explore the dashboard.
+5. Open the Power BI file to explore the dashboard using the excel file that python code creates
 
 ## 💡 Economic Interpretation
 - **Resource Allocation**: 60% of the retention budget should be directed to Champions and At-Risk segments to maximize CLV under budget constraints.
@@ -42,6 +42,7 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 
 ## 📁 Repository Structure
 - project.ipynb
-- online_retail_II.xlsx
+- power_bi file.pbix
+- rfm_clv_output.csv
 - dashboard/screenshots
 - README.md
