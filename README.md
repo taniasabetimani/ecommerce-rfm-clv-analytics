@@ -42,7 +42,7 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 
 ## 📁 Repository Structure
 - project.ipynb
-- power_bi file.pbix
+- ecommerce_dashboard.pbix
 - rfm_clv_output.csv
 - dashboard/screenshots
 - requirements.txt
