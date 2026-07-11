@@ -33,7 +33,7 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 1. Clone this repo.
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Download the [UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) and place it in `/data`.
-4. Run the Jupyter notebooks in `/notebooks`.
+4. Run the Jupyter notebook.
 5. Open the Power BI file to explore the dashboard.
 
 ## 💡 Economic Interpretation
@@ -41,8 +41,7 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 - **Retention > Acquisition**: Re-engaging an "At Risk" customer ($10 incentive) yields a positive NPV ($27 CLV), whereas acquiring a "Lost" customer costs ~$120 for a $3.76 return – a clear negative ROI.
 
 ## 📁 Repository Structure
-- data
-- notebooks
+- project.ipynb
+- online_retail_II.xlsx
 - dashboard/screenshots
-- reports
 - README.md
