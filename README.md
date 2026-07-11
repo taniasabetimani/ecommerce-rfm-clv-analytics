@@ -23,8 +23,8 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 | **Retention Focus** | "At Risk" customers (182 users) have a CLV 7x higher than Lost – win-back campaigns here yield the highest ROI. |
 
 ## 🖥️ Power BI Dashboard
-![Page 1 - Overview](dashboard/screenshots/page1_overview.png)
-![Page 2 - RFM](dashboard/screenshots/page2_rfm.png)
+![Page 1 - Overview](dashboard/screenshots/page1-overview.png)
+![Page 2 - RFM](dashboard/screenshots/page2-rfm.png)
 ![Page 3 - CLV](dashboard/screenshots/page3_clv.png)
 
 *The dashboard includes segment slicers, Pareto charts, and drill-down tables.*
