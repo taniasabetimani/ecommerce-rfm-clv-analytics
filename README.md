@@ -41,3 +41,8 @@ How can a business allocate its marketing budget efficiently to maximize ROI? By
 - **Retention > Acquisition**: Re-engaging an "At Risk" customer ($10 incentive) yields a positive NPV ($27 CLV), whereas acquiring a "Lost" customer costs ~$120 for a $3.76 return – a clear negative ROI.
 
 ## 📁 Repository Structure
+- data
+- notebooks
+- dashboard/screenshots
+- reports
+- README.md
